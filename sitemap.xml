@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://pso2west.com/</loc>
+  <lastmod>2016-05-23T16:24:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/index.html</loc>
+  <lastmod>2016-05-23T16:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/forum.html</loc>
+  <lastmod>2016-05-23T16:26:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/getting-started.html</loc>
+  <lastmod>2016-05-23T16:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/resource-portal.html</loc>
+  <lastmod>2016-05-23T16:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/emu.html</loc>
+  <lastmod>2016-05-26T03:21:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/privacy.html</loc>
+  <lastmod>2016-05-23T16:28:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/contact.html</loc>
+  <lastmod>2016-05-23T16:28:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/psn-account-creation.html</loc>
+  <lastmod>2016-05-23T16:24:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/sega-account-creation.html</loc>
+  <lastmod>2016-05-23T16:24:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://pso2west.com/pso2emu/emu.html</loc>
+  <lastmod>2016-05-26T23:58:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>

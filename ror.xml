@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://pso2west.com/</title>
+  <link>http://pso2west.com/</link>
+
+<item>
+     <link>http://pso2west.com/</link>
+     <title>pso2west</title>
+     <description>Phantasy Star Online 2 resource hub for English speaking players.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/index.html</link>
+     <title>pso2west</title>
+     <description>Phantasy Star Online 2 resource hub for English speaking players.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/forum.html</link>
+     <title>pso2west</title>
+     <description>Phantasy Star Online 2 resource hub for English speaking players.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/getting-started.html</link>
+     <title>pso2west</title>
+     <description>Phantasy Star Online 2 resource hub for English speaking players.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/resource-portal.html</link>
+     <title>pso2west</title>
+     <description>Phantasy Star Online 2 resource hub for English speaking players.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/emu.html</link>
+     <title>pso2west</title>
+     <description>pso2west</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/privacy.html</link>
+     <title>pso2west</title>
+     <description>Phantasy Star Online 2 resource hub for English speaking players.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/contact.html</link>
+     <title>pso2west</title>
+     <description>Phantasy Star Online 2 resource hub for English speaking players.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/psn-account-creation.html</link>
+     <title>pso2west</title>
+     <description>Phantasy Star Online 2 resource hub for English speaking players.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/sega-account-creation.html</link>
+     <title>pso2west</title>
+     <description>Phantasy Star Online 2 resource hub for English speaking players.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://pso2west.com/pso2emu/emu.html</link>
+     <title>PSO2 English Menu Emulator</title>
+     <description>PSO2 English Menu Emulator</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
